@@ -1,3 +1,5 @@
 This is my first code practice.
 I love to try new things.
 
+echo "Hello world"
+cat > text.txt
